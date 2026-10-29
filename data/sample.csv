@@ -1,0 +1,101 @@
+Số báo danh,Họ và tên,Ngày sinh,Giới tính,CCCD,Địa chỉ tỉnh,Toán,Ngữ văn,Môn tự chọn 1,Điểm tự chọn 1,Môn tự chọn 2,Điểm tự chọn 2,Khu vực ưu tiên,Đối tượng ưu tiên,Điểm ưu tiên,Điểm khuyến khích,Hệ đào tạo,Năm tốt nghiệp,Mã hội đồng,Tổng điểm,Điểm trung bình,Trạng thái
+10000001,Thí sinh giả lập 001,01/01/2007,Nam,,Tỉnh giả lập B,3.25,4.25,Hóa học,4.75,Lịch sử,5.75,KV2,0,0,0,GDPT,2025,00,18.00,4.500,Trượt tốt nghiệp
+10000002,Thí sinh giả lập 002,01/01/2007,Nữ,,Tỉnh giả lập C,6.5,8.5,Sinh học,9.5,Địa lý,1.25,KV3,0,0,0,GDPT,2025,00,25.75,6.438,Đỗ tốt nghiệp
+10000003,Thí sinh giả lập 003,01/01/2007,Nam,,Tỉnh giả lập D,9.75,2.5,Lịch sử,4,Ngoại ngữ,7,KV1,0,0,0,GDPT,2025,00,23.25,5.813,Đỗ tốt nghiệp
+10000004,Thí sinh giả lập 004,01/01/2007,Nữ,,Tỉnh giả lập A,2.75,6.75,Địa lý,8.75,GDCD,2.5,KV2,0,0,0,GDPT,2025,00,20.75,5.188,Đỗ tốt nghiệp
+10000005,Thí sinh giả lập 005,01/01/2007,Nam,,Tỉnh giả lập B,6,0.75,Ngoại ngữ,3.25,Vật lý,8.25,KV3,0,0,0,GDTX,2025,00,18.25,4.563,Trượt tốt nghiệp
+10000006,Thí sinh giả lập 006,01/01/2007,Nữ,,Tỉnh giả lập C,9.25,5,GDCD,8,Hóa học,3.75,KV1,0,0,0,GDPT,2025,00,26.00,6.500,Đỗ tốt nghiệp
+10000007,Thí sinh giả lập 007,01/01/2007,Nam,,Tỉnh giả lập D,2.25,9.25,Vật lý,2.5,Sinh học,9.5,KV2,0,0,0,GDPT,2025,00,23.50,5.875,Đỗ tốt nghiệp
+10000008,Thí sinh giả lập 008,01/01/2007,Nữ,,Tỉnh giả lập A,5.5,3.25,Hóa học,7.25,Lịch sử,5,KV3,0,0,0,GDPT,2025,00,21.00,5.250,Đỗ tốt nghiệp
+10000009,Thí sinh giả lập 009,01/01/2007,Nam,,Tỉnh giả lập B,8.75,7.5,Sinh học,1.75,Địa lý,0.5,KV1,0,0,0,GDPT,2025,00,18.50,4.625,Trượt tốt nghiệp
+10000010,Thí sinh giả lập 010,01/01/2007,Nữ,,Tỉnh giả lập C,1.75,1.5,Lịch sử,6.5,Ngoại ngữ,6.25,KV2,0,0,0,GDTX,2025,00,16.00,4.000,Trượt tốt nghiệp
+10000011,Thí sinh giả lập 011,01/01/2007,Nam,,Tỉnh giả lập D,5,5.75,Địa lý,1,GDCD,1.75,KV3,0,0,0,GDPT,2025,00,13.50,3.375,Trượt tốt nghiệp
+10000012,Thí sinh giả lập 012,01/01/2007,Nữ,,Tỉnh giả lập A,8.25,10,Ngoại ngữ,5.75,Vật lý,7.5,KV1,0,0,0,GDPT,2025,00,31.50,7.875,Đỗ tốt nghiệp
+10000013,Thí sinh giả lập 013,01/01/2007,Nam,,Tỉnh giả lập B,1.25,4,GDCD,0.25,Hóa học,3,KV2,0,0,0,GDPT,2025,00,8.50,2.125,Trượt tốt nghiệp
+10000014,Thí sinh giả lập 014,01/01/2007,Nữ,,Tỉnh giả lập C,4.5,8.25,Vật lý,5,Sinh học,8.75,KV3,0,0,0,GDPT,2025,00,26.50,6.625,Đỗ tốt nghiệp
+10000015,Thí sinh giả lập 015,01/01/2007,Nam,,Tỉnh giả lập D,7.75,2.25,Hóa học,9.75,Lịch sử,4.25,KV1,0,0,0,GDTX,2025,00,24.00,6.000,Đỗ tốt nghiệp
+10000016,Thí sinh giả lập 016,01/01/2007,Nữ,,Tỉnh giả lập A,0.75,6.5,Sinh học,4.25,Địa lý,10,KV2,0,0,0,GDPT,2025,00,21.50,5.375,Đỗ tốt nghiệp
+10000017,Thí sinh giả lập 017,01/01/2007,Nam,,Tỉnh giả lập B,4,0.5,Lịch sử,9,Ngoại ngữ,5.5,KV3,0,0,0,GDPT,2025,00,19.00,4.750,Trượt tốt nghiệp
+10000018,Thí sinh giả lập 018,01/01/2007,Nữ,,Tỉnh giả lập C,7.25,4.75,Địa lý,3.5,GDCD,1,KV1,0,0,0,GDPT,2025,00,16.50,4.125,Trượt tốt nghiệp
+10000019,Thí sinh giả lập 019,01/01/2007,Nam,,Tỉnh giả lập D,0.25,9,Ngoại ngữ,8.25,Vật lý,6.75,KV2,0,0,0,GDPT,2025,00,24.25,6.063,Đỗ tốt nghiệp
+10000020,Thí sinh giả lập 020,01/01/2007,Nữ,,Tỉnh giả lập A,3.5,3,GDCD,2.75,Hóa học,2.25,KV3,0,0,0,GDTX,2025,00,11.50,2.875,Trượt tốt nghiệp
+10000021,Thí sinh giả lập 021,01/01/2007,Nam,,Tỉnh giả lập B,6.75,7.25,Vật lý,7.5,Sinh học,8,KV1,0,0,0,GDPT,2025,00,29.50,7.375,Đỗ tốt nghiệp
+10000022,Thí sinh giả lập 022,01/01/2007,Nữ,,Tỉnh giả lập C,10,1.25,Hóa học,2,Lịch sử,3.5,KV2,0,0,0,GDPT,2025,00,16.75,4.188,Trượt tốt nghiệp
+10000023,Thí sinh giả lập 023,01/01/2007,Nam,,Tỉnh giả lập D,3,5.5,Sinh học,6.75,Địa lý,9.25,KV3,0,0,0,GDPT,2025,00,24.50,6.125,Đỗ tốt nghiệp
+10000024,Thí sinh giả lập 024,01/01/2007,Nữ,,Tỉnh giả lập A,6.25,9.75,Lịch sử,1.25,Ngoại ngữ,4.75,KV1,0,0,0,GDPT,2025,00,22.00,5.500,Đỗ tốt nghiệp
+10000025,Thí sinh giả lập 025,01/01/2007,Nam,,Tỉnh giả lập B,9.5,3.75,Địa lý,6,GDCD,0.25,KV2,0,0,0,GDTX,2025,00,19.50,4.875,Trượt tốt nghiệp
+10000026,Thí sinh giả lập 026,01/01/2007,Nữ,,Tỉnh giả lập C,2.5,8,Ngoại ngữ,0.5,Vật lý,6,KV3,0,0,0,GDPT,2025,00,17.00,4.250,Trượt tốt nghiệp
+10000027,Thí sinh giả lập 027,01/01/2007,Nam,,Tỉnh giả lập D,5.75,2,GDCD,5.25,Hóa học,1.5,KV1,0,0,0,GDPT,2025,00,14.50,3.625,Trượt tốt nghiệp
+10000028,Thí sinh giả lập 028,01/01/2007,Nữ,,Tỉnh giả lập A,9,6.25,Vật lý,10,Sinh học,7.25,KV2,0,0,0,GDPT,2025,00,32.50,8.125,Đỗ tốt nghiệp
+10000029,Thí sinh giả lập 029,01/01/2007,Nam,,Tỉnh giả lập B,2,0.25,Hóa học,4.5,Lịch sử,2.75,KV3,0,0,0,GDPT,2025,00,9.50,2.375,Trượt tốt nghiệp
+10000030,Thí sinh giả lập 030,01/01/2007,Nữ,,Tỉnh giả lập C,5.25,4.5,Sinh học,9.25,Địa lý,8.5,KV1,0,0,0,GDTX,2025,00,27.50,6.875,Đỗ tốt nghiệp
+10000031,Thí sinh giả lập 031,01/01/2007,Nam,,Tỉnh giả lập D,8.5,8.75,Lịch sử,3.75,Ngoại ngữ,4,KV2,0,0,0,GDPT,2025,00,25.00,6.250,Đỗ tốt nghiệp
+10000032,Thí sinh giả lập 032,01/01/2007,Nữ,,Tỉnh giả lập A,1.5,2.75,Địa lý,8.5,GDCD,9.75,KV3,0,0,0,GDPT,2025,00,22.50,5.625,Đỗ tốt nghiệp
+10000033,Thí sinh giả lập 033,01/01/2007,Nam,,Tỉnh giả lập B,4.75,7,Ngoại ngữ,3,Vật lý,5.25,KV1,0,0,0,GDPT,2025,00,20.00,5.000,Đỗ tốt nghiệp
+10000034,Thí sinh giả lập 034,01/01/2007,Nữ,,Tỉnh giả lập C,8,1,GDCD,7.75,Hóa học,0.75,KV2,0,0,0,GDPT,2025,00,17.50,4.375,Trượt tốt nghiệp
+10000035,Thí sinh giả lập 035,01/01/2007,Nam,,Tỉnh giả lập D,1,5.25,Vật lý,2.25,Sinh học,6.5,KV3,0,0,0,GDTX,2025,00,15.00,3.750,Trượt tốt nghiệp
+10000036,Thí sinh giả lập 036,01/01/2007,Nữ,,Tỉnh giả lập A,4.25,9.5,Hóa học,7,Lịch sử,2,KV1,0,0,0,GDPT,2025,00,22.75,5.688,Đỗ tốt nghiệp
+10000037,Thí sinh giả lập 037,01/01/2007,Nam,,Tỉnh giả lập B,7.5,3.5,Sinh học,1.5,Địa lý,7.75,KV2,0,0,0,GDPT,2025,00,20.25,5.063,Đỗ tốt nghiệp
+10000038,Thí sinh giả lập 038,01/01/2007,Nữ,,Tỉnh giả lập C,0.5,7.75,Lịch sử,6.25,Ngoại ngữ,3.25,KV3,0,0,0,GDPT,2025,00,17.75,4.438,Trượt tốt nghiệp
+10000039,Thí sinh giả lập 039,01/01/2007,Nam,,Tỉnh giả lập D,3.75,1.75,Địa lý,0.75,GDCD,9,KV1,0,0,0,GDPT,2025,00,15.25,3.813,Trượt tốt nghiệp
+10000040,Thí sinh giả lập 040,01/01/2007,Nữ,,Tỉnh giả lập A,7,6,Ngoại ngữ,5.5,Vật lý,4.5,KV2,0,0,0,GDTX,2025,00,23.00,5.750,Đỗ tốt nghiệp
+10000041,Thí sinh giả lập 041,01/01/2007,Nam,,Tỉnh giả lập B,0,0,GDCD,0,Hóa học,0,KV3,0,0,0,GDPT,2025,00,0.00,0.000,Trượt tốt nghiệp
+10000042,Thí sinh giả lập 042,01/01/2007,Nữ,,Tỉnh giả lập C,3.25,4.25,Vật lý,4.75,Sinh học,5.75,KV1,0,0,0,GDPT,2025,00,18.00,4.500,Trượt tốt nghiệp
+10000043,Thí sinh giả lập 043,01/01/2007,Nam,,Tỉnh giả lập D,6.5,8.5,Hóa học,9.5,Lịch sử,1.25,KV2,0,0,0,GDPT,2025,00,25.75,6.438,Đỗ tốt nghiệp
+10000044,Thí sinh giả lập 044,01/01/2007,Nữ,,Tỉnh giả lập A,9.75,2.5,Sinh học,4,Địa lý,7,KV3,0,0,0,GDPT,2025,00,23.25,5.813,Đỗ tốt nghiệp
+10000045,Thí sinh giả lập 045,01/01/2007,Nam,,Tỉnh giả lập B,2.75,6.75,Lịch sử,8.75,Ngoại ngữ,2.5,KV1,0,0,0,GDTX,2025,00,20.75,5.188,Đỗ tốt nghiệp
+10000046,Thí sinh giả lập 046,01/01/2007,Nữ,,Tỉnh giả lập C,6,0.75,Địa lý,3.25,GDCD,8.25,KV2,0,0,0,GDPT,2025,00,18.25,4.563,Trượt tốt nghiệp
+10000047,Thí sinh giả lập 047,01/01/2007,Nam,,Tỉnh giả lập D,9.25,5,Ngoại ngữ,8,Vật lý,3.75,KV3,0,0,0,GDPT,2025,00,26.00,6.500,Đỗ tốt nghiệp
+10000048,Thí sinh giả lập 048,01/01/2007,Nữ,,Tỉnh giả lập A,2.25,9.25,GDCD,2.5,Hóa học,9.5,KV1,0,0,0,GDPT,2025,00,23.50,5.875,Đỗ tốt nghiệp
+10000049,Thí sinh giả lập 049,01/01/2007,Nam,,Tỉnh giả lập B,5.5,3.25,Vật lý,7.25,Sinh học,5,KV2,0,0,0,GDPT,2025,00,21.00,5.250,Đỗ tốt nghiệp
+10000050,Thí sinh giả lập 050,01/01/2007,Nữ,,Tỉnh giả lập C,8.75,7.5,Hóa học,1.75,Lịch sử,0.5,KV3,0,0,0,GDTX,2025,00,18.50,4.625,Trượt tốt nghiệp
+10000051,Thí sinh giả lập 051,01/01/2007,Nam,,Tỉnh giả lập D,1.75,1.5,Sinh học,6.5,Địa lý,6.25,KV1,0,0,0,GDPT,2025,00,16.00,4.000,Trượt tốt nghiệp
+10000052,Thí sinh giả lập 052,01/01/2007,Nữ,,Tỉnh giả lập A,5,5.75,Lịch sử,1,Ngoại ngữ,1.75,KV2,0,0,0,GDPT,2025,00,13.50,3.375,Trượt tốt nghiệp
+10000053,Thí sinh giả lập 053,01/01/2007,Nam,,Tỉnh giả lập B,8.25,10,Địa lý,5.75,GDCD,7.5,KV3,0,0,0,GDPT,2025,00,31.50,7.875,Đỗ tốt nghiệp
+10000054,Thí sinh giả lập 054,01/01/2007,Nữ,,Tỉnh giả lập C,1.25,4,Ngoại ngữ,0.25,Vật lý,3,KV1,0,0,0,GDPT,2025,00,8.50,2.125,Trượt tốt nghiệp
+10000055,Thí sinh giả lập 055,01/01/2007,Nam,,Tỉnh giả lập D,4.5,8.25,GDCD,5,Hóa học,8.75,KV2,0,0,0,GDTX,2025,00,26.50,6.625,Đỗ tốt nghiệp
+10000056,Thí sinh giả lập 056,01/01/2007,Nữ,,Tỉnh giả lập A,7.75,2.25,Vật lý,9.75,Sinh học,4.25,KV3,0,0,0,GDPT,2025,00,24.00,6.000,Đỗ tốt nghiệp
+10000057,Thí sinh giả lập 057,01/01/2007,Nam,,Tỉnh giả lập B,0.75,6.5,Hóa học,4.25,Lịch sử,10,KV1,0,0,0,GDPT,2025,00,21.50,5.375,Đỗ tốt nghiệp
+10000058,Thí sinh giả lập 058,01/01/2007,Nữ,,Tỉnh giả lập C,4,0.5,Sinh học,9,Địa lý,5.5,KV2,0,0,0,GDPT,2025,00,19.00,4.750,Trượt tốt nghiệp
+10000059,Thí sinh giả lập 059,01/01/2007,Nam,,Tỉnh giả lập D,7.25,4.75,Lịch sử,3.5,Ngoại ngữ,1,KV3,0,0,0,GDPT,2025,00,16.50,4.125,Trượt tốt nghiệp
+10000060,Thí sinh giả lập 060,01/01/2007,Nữ,,Tỉnh giả lập A,0.25,9,Địa lý,8.25,GDCD,6.75,KV1,0,0,0,GDTX,2025,00,24.25,6.063,Đỗ tốt nghiệp
+10000061,Thí sinh giả lập 061,01/01/2007,Nam,,Tỉnh giả lập B,3.5,3,Ngoại ngữ,2.75,Vật lý,2.25,KV2,0,0,0,GDPT,2025,00,11.50,2.875,Trượt tốt nghiệp
+10000062,Thí sinh giả lập 062,01/01/2007,Nữ,,Tỉnh giả lập C,6.75,7.25,GDCD,7.5,Hóa học,8,KV3,0,0,0,GDPT,2025,00,29.50,7.375,Đỗ tốt nghiệp
+10000063,Thí sinh giả lập 063,01/01/2007,Nam,,Tỉnh giả lập D,10,1.25,Vật lý,2,Sinh học,3.5,KV1,0,0,0,GDPT,2025,00,16.75,4.188,Trượt tốt nghiệp
+10000064,Thí sinh giả lập 064,01/01/2007,Nữ,,Tỉnh giả lập A,3,5.5,Hóa học,6.75,Lịch sử,9.25,KV2,0,0,0,GDPT,2025,00,24.50,6.125,Đỗ tốt nghiệp
+10000065,Thí sinh giả lập 065,01/01/2007,Nam,,Tỉnh giả lập B,6.25,9.75,Sinh học,1.25,Địa lý,4.75,KV3,0,0,0,GDTX,2025,00,22.00,5.500,Đỗ tốt nghiệp
+10000066,Thí sinh giả lập 066,01/01/2007,Nữ,,Tỉnh giả lập C,9.5,3.75,Lịch sử,6,Ngoại ngữ,0.25,KV1,0,0,0,GDPT,2025,00,19.50,4.875,Trượt tốt nghiệp
+10000067,Thí sinh giả lập 067,01/01/2007,Nam,,Tỉnh giả lập D,2.5,8,Địa lý,0.5,GDCD,6,KV2,0,0,0,GDPT,2025,00,17.00,4.250,Trượt tốt nghiệp
+10000068,Thí sinh giả lập 068,01/01/2007,Nữ,,Tỉnh giả lập A,5.75,2,Ngoại ngữ,5.25,Vật lý,1.5,KV3,0,0,0,GDPT,2025,00,14.50,3.625,Trượt tốt nghiệp
+10000069,Thí sinh giả lập 069,01/01/2007,Nam,,Tỉnh giả lập B,9,6.25,GDCD,10,Hóa học,7.25,KV1,0,0,0,GDPT,2025,00,32.50,8.125,Đỗ tốt nghiệp
+10000070,Thí sinh giả lập 070,01/01/2007,Nữ,,Tỉnh giả lập C,2,0.25,Vật lý,4.5,Sinh học,2.75,KV2,0,0,0,GDTX,2025,00,9.50,2.375,Trượt tốt nghiệp
+10000071,Thí sinh giả lập 071,01/01/2007,Nam,,Tỉnh giả lập D,5.25,4.5,Hóa học,9.25,Lịch sử,8.5,KV3,0,0,0,GDPT,2025,00,27.50,6.875,Đỗ tốt nghiệp
+10000072,Thí sinh giả lập 072,01/01/2007,Nữ,,Tỉnh giả lập A,8.5,8.75,Sinh học,3.75,Địa lý,4,KV1,0,0,0,GDPT,2025,00,25.00,6.250,Đỗ tốt nghiệp
+10000073,Thí sinh giả lập 073,01/01/2007,Nam,,Tỉnh giả lập B,1.5,2.75,Lịch sử,8.5,Ngoại ngữ,9.75,KV2,0,0,0,GDPT,2025,00,22.50,5.625,Đỗ tốt nghiệp
+10000074,Thí sinh giả lập 074,01/01/2007,Nữ,,Tỉnh giả lập C,4.75,7,Địa lý,3,GDCD,5.25,KV3,0,0,0,GDPT,2025,00,20.00,5.000,Đỗ tốt nghiệp
+10000075,Thí sinh giả lập 075,01/01/2007,Nam,,Tỉnh giả lập D,8,1,Ngoại ngữ,7.75,Vật lý,0.75,KV1,0,0,0,GDTX,2025,00,17.50,4.375,Trượt tốt nghiệp
+10000076,Thí sinh giả lập 076,01/01/2007,Nữ,,Tỉnh giả lập A,1,5.25,GDCD,2.25,Hóa học,6.5,KV2,0,0,0,GDPT,2025,00,15.00,3.750,Trượt tốt nghiệp
+10000077,Thí sinh giả lập 077,01/01/2007,Nam,,Tỉnh giả lập B,4.25,9.5,Vật lý,7,Sinh học,2,KV3,0,0,0,GDPT,2025,00,22.75,5.688,Đỗ tốt nghiệp
+10000078,Thí sinh giả lập 078,01/01/2007,Nữ,,Tỉnh giả lập C,7.5,3.5,Hóa học,1.5,Lịch sử,7.75,KV1,0,0,0,GDPT,2025,00,20.25,5.063,Đỗ tốt nghiệp
+10000079,Thí sinh giả lập 079,01/01/2007,Nam,,Tỉnh giả lập D,0.5,7.75,Sinh học,6.25,Địa lý,3.25,KV2,0,0,0,GDPT,2025,00,17.75,4.438,Trượt tốt nghiệp
+10000080,Thí sinh giả lập 080,01/01/2007,Nữ,,Tỉnh giả lập A,3.75,1.75,Lịch sử,0.75,Ngoại ngữ,9,KV3,0,0,0,GDTX,2025,00,15.25,3.813,Trượt tốt nghiệp
+10000081,Thí sinh giả lập 081,01/01/2007,Nam,,Tỉnh giả lập B,7,6,Địa lý,5.5,GDCD,4.5,KV1,0,0,0,GDPT,2025,00,23.00,5.750,Đỗ tốt nghiệp
+10000082,Thí sinh giả lập 082,01/01/2007,Nữ,,Tỉnh giả lập C,0,0,Ngoại ngữ,0,Vật lý,0,KV2,0,0,0,GDPT,2025,00,0.00,0.000,Trượt tốt nghiệp
+10000083,Thí sinh giả lập 083,01/01/2007,Nam,,Tỉnh giả lập D,3.25,4.25,GDCD,4.75,Hóa học,5.75,KV3,0,0,0,GDPT,2025,00,18.00,4.500,Trượt tốt nghiệp
+10000084,Thí sinh giả lập 084,01/01/2007,Nữ,,Tỉnh giả lập A,6.5,8.5,Vật lý,9.5,Sinh học,1.25,KV1,0,0,0,GDPT,2025,00,25.75,6.438,Đỗ tốt nghiệp
+10000085,Thí sinh giả lập 085,01/01/2007,Nam,,Tỉnh giả lập B,9.75,2.5,Hóa học,4,Lịch sử,7,KV2,0,0,0,GDTX,2025,00,23.25,5.813,Đỗ tốt nghiệp
+10000086,Thí sinh giả lập 086,01/01/2007,Nữ,,Tỉnh giả lập C,2.75,6.75,Sinh học,8.75,Địa lý,2.5,KV3,0,0,0,GDPT,2025,00,20.75,5.188,Đỗ tốt nghiệp
+10000087,Thí sinh giả lập 087,01/01/2007,Nam,,Tỉnh giả lập D,6,0.75,Lịch sử,3.25,Ngoại ngữ,8.25,KV1,0,0,0,GDPT,2025,00,18.25,4.563,Trượt tốt nghiệp
+10000088,Thí sinh giả lập 088,01/01/2007,Nữ,,Tỉnh giả lập A,9.25,5,Địa lý,8,GDCD,3.75,KV2,0,0,0,GDPT,2025,00,26.00,6.500,Đỗ tốt nghiệp
+10000089,Thí sinh giả lập 089,01/01/2007,Nam,,Tỉnh giả lập B,2.25,9.25,Ngoại ngữ,2.5,Vật lý,9.5,KV3,0,0,0,GDPT,2025,00,23.50,5.875,Đỗ tốt nghiệp
+10000090,Thí sinh giả lập 090,01/01/2007,Nữ,,Tỉnh giả lập C,5.5,3.25,GDCD,7.25,Hóa học,5,KV1,0,0,0,GDTX,2025,00,21.00,5.250,Đỗ tốt nghiệp
+10000091,Thí sinh giả lập 091,01/01/2007,Nam,,Tỉnh giả lập D,8.75,7.5,Vật lý,1.75,Sinh học,0.5,KV2,0,0,0,GDPT,2025,00,18.50,4.625,Trượt tốt nghiệp
+10000092,Thí sinh giả lập 092,01/01/2007,Nữ,,Tỉnh giả lập A,1.75,1.5,Hóa học,6.5,Lịch sử,6.25,KV3,0,0,0,GDPT,2025,00,16.00,4.000,Trượt tốt nghiệp
+10000093,Thí sinh giả lập 093,01/01/2007,Nam,,Tỉnh giả lập B,5,5.75,Sinh học,1,Địa lý,1.75,KV1,0,0,0,GDPT,2025,00,13.50,3.375,Trượt tốt nghiệp
+10000094,Thí sinh giả lập 094,01/01/2007,Nữ,,Tỉnh giả lập C,8.25,10,Lịch sử,5.75,Ngoại ngữ,7.5,KV2,0,0,0,GDPT,2025,00,31.50,7.875,Đỗ tốt nghiệp
+10000095,Thí sinh giả lập 095,01/01/2007,Nam,,Tỉnh giả lập D,1.25,4,Địa lý,0.25,GDCD,3,KV3,0,0,0,GDTX,2025,00,8.50,2.125,Trượt tốt nghiệp
+10000096,Thí sinh giả lập 096,01/01/2007,Nữ,,Tỉnh giả lập A,4.5,8.25,Ngoại ngữ,5,Vật lý,8.75,KV1,0,0,0,GDPT,2025,00,26.50,6.625,Đỗ tốt nghiệp
+10000097,Thí sinh giả lập 097,01/01/2007,Nam,,Tỉnh giả lập B,7.75,2.25,GDCD,9.75,Hóa học,4.25,KV2,0,0,0,GDPT,2025,00,24.00,6.000,Đỗ tốt nghiệp
+10000098,Thí sinh giả lập 098,01/01/2007,Nữ,,Tỉnh giả lập C,0.75,6.5,Vật lý,4.25,Sinh học,10,KV3,0,0,0,GDPT,2025,00,21.50,5.375,Đỗ tốt nghiệp
+10000099,Thí sinh giả lập 099,01/01/2007,Nam,,Tỉnh giả lập D,4,0.5,Hóa học,9,Lịch sử,5.5,KV1,0,0,0,GDPT,2025,00,19.00,4.750,Trượt tốt nghiệp
+10000100,Thí sinh giả lập 100,01/01/2007,Nữ,,Tỉnh giả lập A,7.25,4.75,Sinh học,3.5,Địa lý,1,KV2,0,0,0,GDTX,2025,00,16.50,4.125,Trượt tốt nghiệp
